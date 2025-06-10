@@ -15,7 +15,7 @@ app.use(morgan("dev"));
 
 app.use(
   cors({
-    origin: "*",
+    origin: "http://expense-tracker-frontend-alpha-nine.vercel.app",
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true,
