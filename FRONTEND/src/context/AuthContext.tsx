@@ -26,7 +26,7 @@ interface AuthContextType {
 //   import.meta.env.REACT_APP_SERVER_URL ||
 //   "https://mini-project-expense-tracker-backend.onrender.com";
 
-const serverUrl = "http://localhost:11000";
+const serverUrl = "https://expense-tracker-rust-delta.vercel.app";
 
 const initialState: AuthState = {
   isAuthenticated: false,
