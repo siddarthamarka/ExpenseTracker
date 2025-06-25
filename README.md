@@ -1,5 +1,4 @@
-# ExpenseTracker
-# Expense-Tracker
+# ExpenseTracker Management System
 Expense Tracker
 
 📌 Overview
